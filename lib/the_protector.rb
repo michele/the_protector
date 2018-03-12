@@ -1,5 +1,4 @@
 require "the_protector/version"
-require "the_protector/utils"
 
 module TheProtector
 end
